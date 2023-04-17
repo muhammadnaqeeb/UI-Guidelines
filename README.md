@@ -1,0 +1,21 @@
+# UI-Guidelines
+Human Computer Interection-Presentaion: This repository includes the React Native app to demonstrates difference between Apple and Material  UI design components.
+
+![alt text](https://github.com/muhammadnaqeeb/UI-Guidelines/blob/main/Slides/s%20(1).jpg)
+![alt text](https://github.com/muhammadnaqeeb/UI-Guidelines/blob/main/Slides/s%20(2).jpg)
+![alt text](https://github.com/muhammadnaqeeb/UI-Guidelines/blob/main/Slides/s%20(3).jpg)
+![alt text](https://github.com/muhammadnaqeeb/UI-Guidelines/blob/main/Slides/s%20(4).jpg)
+![alt text](https://github.com/muhammadnaqeeb/UI-Guidelines/blob/main/Slides/s%20(5).jpg)
+![alt text](https://github.com/muhammadnaqeeb/UI-Guidelines/blob/main/Slides/s%20(6).jpg)
+![alt text](https://github.com/muhammadnaqeeb/UI-Guidelines/blob/main/Slides/s%20(7).jpg)
+![alt text](https://github.com/muhammadnaqeeb/UI-Guidelines/blob/main/Slides/s%20(8).jpg)
+![alt text](https://github.com/muhammadnaqeeb/UI-Guidelines/blob/main/Slides/s%20(9).jpg)
+![alt text](https://github.com/muhammadnaqeeb/UI-Guidelines/blob/main/Slides/s%20(10).jpg)
+![alt text](https://github.com/muhammadnaqeeb/UI-Guidelines/blob/main/Slides/s%20(11).jpg)
+![alt text](https://github.com/muhammadnaqeeb/UI-Guidelines/blob/main/Slides/s%20(12).jpg)
+![alt text](https://github.com/muhammadnaqeeb/UI-Guidelines/blob/main/Slides/s%20(13).jpg)
+![alt text](https://github.com/muhammadnaqeeb/UI-Guidelines/blob/main/Slides/s%20(14).jpg)
+![alt text](https://github.com/muhammadnaqeeb/UI-Guidelines/blob/main/Slides/s%20(15).jpg)
+![alt text](https://github.com/muhammadnaqeeb/UI-Guidelines/blob/main/Slides/s%20(16).jpg)
+![alt text](https://github.com/muhammadnaqeeb/UI-Guidelines/blob/main/Slides/s%20(17).jpg)
+![alt text](https://github.com/muhammadnaqeeb/UI-Guidelines/blob/main/Slides/s%20(18).jpg)
